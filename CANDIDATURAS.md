@@ -1,32 +1,49 @@
-# Funil de candidaturas
+# Sondagem de vagas e funil de candidaturas
 
-**Regra:** este documento é um rastreador. Uma vaga listada **não está automaticamente aberta ou validada**. Confirmar a página oficial e requisitos antes de aplicar.
+**Atualizado em 11/11/2026.** Pesquisas em páginas oficiais; status de inscrições pode mudar. **Nenhuma candidatura foi enviada por este registro.**
 
-## Estados
+## Prioridade de ação
+
+| Prioridade | Empresa / programa | Modelo e aderência | Prazo/status | Próxima ação |
+| --- | --- | --- | --- | --- |
+| **P0** | **Blip — Tech.AI 2027** | R$ 3.300, 100% remoto/flexível, IA e software; formatura 2028 compatível com janela; verificar aceitação formal BCET | **Inscrições 04–30/11** | Preparar CV software/IA e candidatar-se: https://estagio.blip.ai/ |
+| **P1** | **iFood — iFuture 2027** | Anúncio descreve remoto ou híbrido conforme área, 30h e inglês não obrigatório; BCET/formatura 2028 potencialmente compatíveis | **Link específico redirecionou ao painel geral em 11/11; disponibilidade não confirmada** | Monitorar https://job-boards.greenhouse.io/ifoodcarreiras e validar anúncio vigente |
+| **P2** | **Itaú — estágio corporativo** | Inscrições ao longo do ano, até 6h/dia; modalidade remota e área de software não confirmadas | Programa contínuo | Buscar vaga específica: https://carreiras.itau.com.br/programas |
+| **P2** | **Smart Consulting — estágio 2027** | Home office anunciado anteriormente; verificar jornada, elegibilidade e remuneração | Prazo indicado 17/11 em divulgação; confirmar | https://www.icex.ufmg.br/icex_novo/programa-de-estagio-2027-smart-consulting/ |
+
+## Não priorizar nesta edição
+
+| Empresa | Motivo |
+| --- | --- |
+| **Nubank — estágio 2027** | Inscrições encerradas 30/08; híbrido com 3 dias presenciais e exigência de inglês avançado: https://estagio.nubank.com.br/ |
+| **Serasa Experian — estágio 2027** | Inscrições encerradas em 04/11, embora houvesse vagas remotas em software: https://www.serasaexperian.com.br/carreiras/estagio-serasa-experian/ |
+| **EBANX — Early Talent Tech 2027** | 30h em horário comercial e presencial em Curitiba; BCET não aparece entre os cursos elegíveis: https://ebanx.eb.99jobs.com/ |
+| **Bosch — estágio tech janeiro 2027** | Prazo 13/11 ao meio-dia, modalidade remota não confirmada; verificar só se houver tempo: https://jobs.smartrecruiters.com/BoschGroup/744000160259748-programa-de-estagio-superior-janeiro-2027-areas-tech |
+
+## Vagas júnior e startups: triagem adicional
+
+Manter busca por **Java/Spring Boot/SQL**, porém excluir jornadas rígidas de 40h que conflitem com BCET. As vagas Sylision listadas abaixo ainda não tiveram jornada, contratação e disponibilidade verificadas:
+
+- https://www.sylision.com/vagas/desenvolvedor-java-junior-pagamentos-via-pix-473
+- https://www.sylision.com/vagas/desenvolvedor-java-junior-relatorios-466
+- https://www.sylision.com/vagas/desenvolvedor-java-junior-pagamentos-459
+
+## Status de candidatura
 
 `A verificar` → `Elegível` → `Candidatura enviada` → `Triagem` → `Entrevista` → `Proposta` → `Encerrada`.
 
-## Primeira triagem — novembro/2026
+| Data | Empresa / vaga | Link | Elegibilidade confirmada? | Status | Próxima ação |
+| --- | --- | --- | --- | --- | --- |
+| 11/11 | Blip Tech.AI 2027 | https://estagio.blip.ai/ | Parcial: validar BCET e jornada detalhada | A verificar | CV e inscrição |
+| 11/11 | iFood iFuture 2027 | https://job-boards.greenhouse.io/ifoodcarreiras | Não; anúncio individual não disponível | A verificar | Encontrar vaga vigente |
 
-| Empresa / oportunidade | Tipo | Link | Status | Verificações pendentes |
-| --- | --- | --- | --- | --- |
-| Blip — Tech.AI 2027 | Estágio software/IA | https://estagio.blip.ai/ | A verificar | BCET aceito? 2028 elegível? 20–30h? Flexibilidade? Prazo? |
-| Smart Consulting — estágio 2027 | Estágio tech | https://www.icex.ufmg.br/icex_novo/programa-de-estagio-2027-smart-consulting/ | A verificar | Jornada, curso, bolsa, stack e prazo |
-| Sylision — Java Júnior Pix | Júnior | https://www.sylision.com/vagas/desenvolvedor-java-junior-pagamentos-via-pix-473 | A verificar | Vaga ativa? Jornada compatível? CLT/PJ? |
-| Sylision — Java Júnior Relatórios | Júnior | https://www.sylision.com/vagas/desenvolvedor-java-junior-relatorios-466 | A verificar | Vaga ativa? Jornada compatível? |
-| Sylision — Java Júnior Pagamentos | Júnior | https://www.sylision.com/vagas/desenvolvedor-java-junior-pagamentos-459 | A verificar | Vaga ativa? Jornada compatível? |
+**Privacidade:** não registrar e-mail pessoal, telefone, informações de recrutadores ou documentos privados em repositório público.
 
-**Importante:** links são candidatos à verificação, não disponibilidade em tempo real confirmada. Não registrar salário como garantido. Novas vagas precisam ter URL oficial, data de checagem e critérios de elegibilidade.
+## Revisão semanal
 
-## Modelo para novas candidaturas
-
-| Data de checagem | Empresa | Cargo | Modalidade | Horas/semana | Flexibilidade | Remuneração | Link | Status | Próxima ação |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| — | — | — | — | — | — | — | — | — | — |
-
-## Revisão de funil
-
-- **Semanal:** vagas analisadas, candidaturas enviadas, retornos e entrevistas.
-- **Após 10–15 candidaturas qualificadas:** verificar se há respostas. Sem retorno, revisar CV, elegibilidade e canais; não concluir automaticamente que falta competência técnica.
-- **Após entrevistas:** registrar perguntas e lacunas reais para alimentar o roadmap.
-- **Privacidade:** não publicar telefones, e-mails pessoais, dados de recrutadores, documentos ou informações salariais confidenciais em repositório público.
+- Vagas verificadas:
+- Candidaturas enviadas:
+- Retornos:
+- Entrevistas:
+- Requisitos mais frequentes:
+- Ajustes necessários no currículo:
