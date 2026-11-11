@@ -1,75 +1,67 @@
 # Roadmap de execução — novembro/2026 a janeiro/2027
 
-## Fase 0 — 11 a 15/11: concluir DIO e preparar candidaturas
+## Fase 0 — 11 a 15/11: RasComp + candidaturas urgentes
 
-**Foco:** encerrar Java + IA da DIO. Semana de preparação final da competição RasComp; não sobrecarregar.
+**Prioridade 1:** garantir funcionamento do RasComp para a competição de 14/11: revisar pendências críticas, testes de ponta a ponta, operação local/rede, backup, contingência e checklist de evento. Executar alterações no projeto correspondente, não neste repositório.
 
-- [ ] Finalizar módulos, atividades e certificado DIO Java + IA.
-- [ ] Registrar 3 temas que merecem prática sem IA.
-- [ ] Conferir requisitos e prazos das primeiras vagas.
-- [ ] Preparar versão inicial de currículo backend e estágio software/IA.
+**Prioridade 2:** currículo e candidaturas. Identificar prazos, confirmar requisitos e jornada; preparar versões de currículo backend Java e software/IA; enviar inscrições compatíveis **antes** de terminar cursos.
 
-**Saída:** curso concluído e primeiras candidaturas prontas. Se houver prazo de inscrição anterior à conclusão da DIO, a candidatura vem primeiro.
+**Em paralelo:** avançar DIO Java + IA, preferencialmente concluir nesta semana; não deixar o curso bloquear candidaturas.
 
-## Fase 1 — 16 a 30/11: diagnóstico e posicionamento
+**Saída:** competição preparada e candidaturas urgentes encaminhadas.
 
-**Foco técnico:** Java core, POO, interfaces, coleções, generics, Streams, exceptions e raciocínio independente.
+## Fase 1 — 16 a 30/11: candidaturas, freelance e diagnóstico
 
-- [ ] Resolver diagnóstico inicial sem IA, registrando tempo, erros e explicações.
-- [ ] Praticar apenas os pontos fracos identificados.
-- [ ] Revisar currículo, LinkedIn e portfólio com resultados concretos de SGL/RasComp.
-- [ ] Selecionar uma melhoria pequena e útil no AkosMed.
-- [ ] Enviar candidaturas qualificadas semanalmente e acompanhar retornos.
+- [ ] Enviar 3–5 candidaturas qualificadas por semana, com registro de etapa e retorno.
+- [ ] Revisar LinkedIn, currículo e portfólio com evidências reais de SGL e RasComp.
+- [ ] Criar e publicar perfil freelance em plataforma selecionada, após comparar taxas, regras e demanda.
+- [ ] Definir 2–3 serviços de escopo fechado; elaborar proposta-modelo e critério de aceite.
+- [ ] Diagnosticar Java usando https://roadmap.sh/java; estudar só lacunas comprovadas.
+- [ ] Selecionar melhoria pequena no AkosMed e um ponto de aplicação na pesquisa em IA.
 
-**Saída:** diagnóstico documentado, apresentação profissional atualizada e funil de candidaturas ativo.
+**Saída:** funil de vagas ativo, perfil freelance publicado e trilha técnica personalizada.
 
-## Fase 2 — 01 a 20/12: backend Java profissional
+## Fase 2 — 01 a 20/12: backend profissional e primeiras propostas
 
-**Foco:** Spring Boot, REST, validação, JPA/Hibernate, transações, SQL (joins, agregações, índices), JUnit e Mockito.
+**Técnico:** Spring Boot, REST, JPA, SQL (JOIN, GROUP BY, índices, transações), testes JUnit/Mockito e integração, conforme lacunas do roadmap.sh.
 
-- [ ] Fazer exercícios SQL progressivos e explicar planos de consulta básicos.
-- [ ] Implementar testes unitários e de integração em funcionalidade selecionada.
-- [ ] Aplicar melhoria no AkosMed com documentação e evidência de teste.
-- [ ] Treinar explicação de decisões técnicas e trade-offs.
-- [ ] Continuar candidaturas e ajustar abordagem conforme feedback.
+- [ ] Entrega incremental testada no AkosMed.
+- [ ] Exercícios independentes nos tópicos com menor segurança.
+- [ ] Enviar propostas freelance específicas e de baixo risco, sem inventar experiência.
+- [ ] Manter candidaturas e revisar respostas.
+- [ ] Continuar curso de inglês com compreensão e conversação básica.
 
-**Saída:** mudanças pequenas, funcionais e verificáveis; domínio demonstrável dos fundamentos mais cobrados.
+**Saída:** evidências técnicas e primeiras conversas com recrutadores/clientes.
 
-## Fase 3 — 21/12 a 10/01: Docker, operação e IA aplicada
+## Fase 3 — 21/12 a 10/01: Docker, pesquisa IA e operação
 
-**Foco:** Dockerfile, Compose, banco, migrations, configuração, logs, CI/CD e noções de segurança.
-
-- [ ] Executar aplicação + banco com Docker Compose e README reproduzível.
-- [ ] Verificar migrations, variáveis de ambiente e tratamento de erros.
-- [ ] Na pesquisa em IA, definir uma entrega de integração/avaliação alinhada ao escopo acadêmico real.
-- [ ] Preparar demonstração curta de um projeto com arquitetura, desafios e resultados.
-
-**Saída:** ambiente reproduzível e caso técnico apresentável.
+- [ ] Dockerfile, Compose, banco, migrations, variáveis de ambiente e logs.
+- [ ] Documentar como executar e testar aplicação.
+- [ ] Desenvolver entrega de pesquisa em IA compatível com o escopo acadêmico.
+- [ ] Preparar demonstrações curtas dos projetos.
+- [ ] Prosseguir candidaturas e propostas freelance compatíveis.
 
 ## Fase 4 — 11 a 31/01: entrevistas e conversão
 
-- [ ] Fazer simulados de Java, Spring, SQL e resolução independente.
-- [ ] Ensaiar apresentação de 2–3 minutos de SGL e RasComp.
-- [ ] Treinar perguntas comportamentais com situações reais.
-- [ ] Praticar compreensão e conversação básica em inglês sobre carreira e projetos.
-- [ ] Avaliar propostas por renda líquida, jornada, flexibilidade, mentoria e continuidade acadêmica.
-- [ ] Revisar a estratégia se candidaturas não estiverem gerando entrevistas.
+- [ ] Simulados Java, SQL, Spring e questões comportamentais.
+- [ ] Apresentação de SGL e RasComp: problema, contribuição, decisões e resultados.
+- [ ] Inglês: entender perguntas e explicar projetos em conversação simples.
+- [ ] Avaliar ofertas por renda líquida, jornada e compatibilidade acadêmica.
+- [ ] Ajustar currículo/portfólio conforme dados reais do funil.
 
-**Saída:** preparação para entrevistas, candidaturas em andamento e capacidade de negociar propostas.
+## Carga semanal de referência após a competição
 
-## Rotina de referência após 16/11
-
-| Frente | Horas/semana |
+| Frente | Horas sugeridas |
 | --- | ---: |
-| Java e exercícios independentes | 3 |
-| AkosMed, SQL e testes | 3 |
-| Candidaturas e posicionamento | 2 |
-| Inglês: curso, escuta e fala | 2 |
-| Pesquisa em IA | 2 |
-| **Total sugerido** | **12** |
+| Candidaturas, currículo e entrevistas | 3 |
+| Prospecção freelance e propostas | 2 |
+| Java pelo roadmap.sh + prática independente | 2 |
+| AkosMed, SQL, testes e pesquisa em IA | 3 |
+| Inglês | 2 |
+| **Total** | **12** |
 
-Ajustar à carga acadêmica. Semanas de provas podem reduzir a carga; manter ao menos uma ação de candidatura quando possível.
+**DIO:** encaixar nos blocos de estudo enquanto estiver pendente, sem impedir candidaturas. Ajustar carga por provas e projetos. Quando surgir cliente ou entrevista, replanejar.
 
-## Critério de passagem de fase
+## Regra de estudo
 
-Não é necessário dominar 100% de uma fase para seguir. Avançar com evidências concretas, registrar pendências e revisitá-las conforme surgirem nas entrevistas.
+O curso completo de Java de Nélio Alves **já foi concluído**. Usar [roadmap.sh/java](https://roadmap.sh/java) como mapa de competências, não como lista obrigatória de cursos. Classificar cada tópico como **dominado / revisar / aprofundar** por exercícios e explicações; aplicar o aprendizado no AkosMed e na pesquisa em IA. IA pode apoiar revisão e produtividade, mas alguns exercícios serão independentes.
