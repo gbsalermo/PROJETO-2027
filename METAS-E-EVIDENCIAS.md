@@ -1,61 +1,58 @@
-# Metas, diagnóstico e evidências
+# Metas e evidências
 
-## Indicadores de acompanhamento
+## Formação e ponto de partida
 
-| Indicador | Linha de base | Meta inicial | Como comprovar |
-| --- | --- | --- | --- |
-| Curso DIO Java + IA | Em andamento | Concluir na semana de 11/11 | Certificado |
-| Candidaturas qualificadas | Ainda não registradas aqui | 3–5/semana | CANDIDATURAS.md |
-| Diagnóstico Java | Pendente | Realizar até 30/11 | Exercícios e autoavaliação |
-| Java/Spring/SQL | Experiência prática existente | Aprofundar lacunas | Código, testes e explicações |
-| Docker | Desejo de aprofundamento | Ambiente reproduzível | Dockerfile, Compose, README |
-| Inglês | Curso em andamento | Compreensão e conversação básica até janeiro | Sessões e simulações |
-| AkosMed | Projeto existente | Melhorias incrementais | PRs/commits e testes |
-| Pesquisa em IA | Projeto acadêmico existente | Entrega definida com contexto real | Relatório/experimento |
-| Candidaturas e entrevistas | A iniciar | Funil ativo e revisado semanalmente | Etapas e feedback |
+- **Java:** certificado do curso completo de Java de **Nélio Alves** — concluído (conforme informado; adicionar link/certificado quando disponível).
+- **DIO Java + IA:** em andamento; meta de concluir preferencialmente na semana de 11/11.
+- **BCET/UFRB:** graduação prevista para 2028; depois avaliar Engenharia de Computação ou mestrado em Computação.
+- **Experiência:** SGL, RasComp, Busivs-BOT, pesquisa em IA. Descrever contribuições verificáveis sem expor dados institucionais privados.
 
-## Diagnóstico Java — sem IA durante a resolução
+## Indicadores
 
-Classificar cada assunto como **seguro / revisar / aprofundar** com base em exercícios, não em impressões.
+| Indicador | Meta inicial | Evidência |
+| --- | --- | --- |
+| Candidaturas | 3–5 qualificadas/semana | CANDIDATURAS.md |
+| Currículos | Backend Java e software/IA | Versões revisadas |
+| Freelance | Perfil publicado até 30/11 | Link público |
+| Freelance | Primeiras propostas personalizadas em novembro | Registro de propostas |
+| DIO | Concluir e obter certificado | Certificado |
+| Java | Diagnóstico pelo roadmap.sh até 30/11 | Matriz de habilidades |
+| AkosMed | Uma melhoria incremental testada | Código/testes |
+| SQL e testes | Resolver casos aplicados | Exercícios e testes |
+| Docker | Ambiente reproduzível até janeiro | Compose e instruções |
+| Inglês | Compreensão e conversação básica até janeiro | Sessões simuladas |
+| Entrevistas | Preparação contínua | Simulados e feedback |
+| Renda | Elevar renda sem prejudicar BCET | Oferta/contrato e valores efetivamente recebidos |
 
-- POO, encapsulamento, interfaces, herança e polimorfismo.
-- Collections, equals/hashCode, Comparable/Comparator.
-- Generics, Optional, Streams e lambdas.
-- Exceptions, imutabilidade, organização de código.
-- SQL: JOIN, GROUP BY, subqueries, índices, transações.
-- Spring: injeção de dependências, REST, validação, JPA.
-- Testes: JUnit, Mockito, integração.
-- Docker: imagem, contêiner, volumes, redes e Compose.
+## Mapa de competências Java
 
-### Registro de exercício
+Fonte de organização: https://roadmap.sh/java (consultar versão atual ao estudar). **Não refazer automaticamente o curso de Nélio Alves.**
 
-**Data / assunto / enunciado:**  
-**Tempo e nível de ajuda:**  
-**Solução e justificativa:**  
-**Erros e aprendizados:**  
-**Repetir em:**  
+| Bloco | Situação | Evidência / lacuna |
+| --- | --- | --- |
+| Sintaxe, tipos, controle de fluxo e métodos | A diagnosticar | — |
+| POO, interfaces, herança e polimorfismo | A diagnosticar | — |
+| Collections, equals/hashCode e comparators | A diagnosticar | — |
+| Generics, Streams, lambdas e Optional | A diagnosticar | — |
+| Exceções, I/O e datas | A diagnosticar | — |
+| JVM, memória, GC e concorrência | A diagnosticar | — |
+| Maven/Gradle, JUnit e depuração | A diagnosticar | — |
+| Spring Boot, REST, JPA e segurança | A diagnosticar | — |
+| SQL, índices e transações | A diagnosticar | — |
+| Docker, Compose e CI/CD | A diagnosticar | — |
 
-## Evidências de experiência
+Classificar como **dominado / revisar / aprofundar** depois de exercício independente e explicação do raciocínio.
 
-Usar fatos verificáveis, evitando números inventados:
+## Evidências de projetos
 
-- **SGL:** regras de negócio laboratoriais, rastreabilidade, pedidos, vínculos, relatórios e integração institucional.
-- **RasComp:** inscrições, fluxos de competição, integrações e operação de evento real.
-- **Busivs-BOT:** automação e serviço em uso real.
-- **AkosMed:** aplicação de novos estudos e qualidade de código.
-- **Pesquisa em IA:** investigação e aplicação conforme resultados efetivamente obtidos.
+- **SGL:** regras laboratoriais, rastreabilidade, pedidos, vínculos e relatórios.
+- **RasComp:** inscrições, competição e operação real.
+- **Busivs-BOT:** automação e serviço utilizado.
+- **AkosMed:** laboratório de evolução Java/backend.
+- **Pesquisa IA:** aplicação e avaliação de resultados conforme escopo efetivo.
 
-Para cada projeto, preparar: **problema → responsabilidade individual → decisão técnica → dificuldade → resultado → aprendizado**.
+Modelo para entrevistas: **problema → minha contribuição → decisão técnica → dificuldade → resultado → aprendizado**.
 
-## Inglês até janeiro
+## Inglês
 
-- Entender perguntas básicas sobre apresentação, estudos, tecnologias e projetos.
-- Responder oralmente com frases simples sem decorar um discurso inteiro.
-- Descrever uma API, um problema resolvido e uma decisão técnica.
-- Manter o curso já escolhido; usar pequenos áudios e conversas simuladas como prática.
-
-## Revisão mensal
-
-**Novembro:** diagnóstico, currículo, candidaturas e DIO.  
-**Dezembro:** Java backend, SQL, testes e entregas reais.  
-**Janeiro:** Docker, inglês funcional, entrevistas e conversão.
+Manter curso atual; priorizar escuta e conversação básica até janeiro: apresentação pessoal, descrição de projetos, perguntas sobre tecnologias e rotina profissional.
