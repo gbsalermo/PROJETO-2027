@@ -1,56 +1,52 @@
-# PROJETO 2027 — Transição para desenvolvimento de software
+# PROJETO 2027 — Carreira, candidaturas e renda
 
-> **Missão:** conquistar uma oportunidade remunerada em desenvolvimento backend Java, software ou IA aplicada, com crescimento profissional, estabilidade financeira e compatibilidade com a graduação.
+**Missão:** conquistar renda mais estável em desenvolvimento de software, sem comprometer a graduação BCET/UFRB (conclusão prevista para 2028).
 
-**Início:** 11/11/2026 · **Horizonte inicial:** janeiro/fevereiro de 2027 · **Revisão:** semanal.
+## Estratégia: duas fontes possíveis de renda
 
-## Situação e critérios
+1. **Vaga principal:** estágio 100% remoto de 20–30h/semana, com horários realmente flexíveis; Java/backend, software ou IA aplicada. Júnior somente se a jornada for compatível.
+2. **Renda complementar:** freelances pequenos e delimitados, conciliáveis com o estágio atual e a faculdade.
 
-- Bolsa atual de referência: **R$ 500/mês**.
-- Meta de entrada: **a partir de ~R$ 1.600/mês**; preferência por **R$ 2.000+**, avaliando valor líquido, benefícios e jornada.
-- **100% remoto**; estágio de **20–30 horas/semana** com flexibilidade real é prioridade.
-- Vagas júnior somente quando a jornada for conciliável com o curso; 40h rígidas não são alvo principal.
-- Graduação: **BCET/UFRB, conclusão prevista para 2028**. Depois, avaliar Engenharia de Computação ou mestrado em Computação.
-- Tecnologias-alvo: **Java, Spring Boot, SQL, APIs, testes, Docker**; IA aplicada como trilha complementar.
-- Experiência existente: **SGL, RasComp, Busivs-BOT** e pesquisa. O objetivo é aprofundar fundamentos e manter fluência de implementação independente — não reaprender programação do zero.
+**Referência atual:** R$ 500/mês. **Entrada desejada:** ~R$ 1.600/mês ou mais. **Meta preferencial:** R$ 2.000+/mês. Avaliar remuneração líquida, carga horária, estabilidade e benefícios; não confundir faturamento freelance com renda líquida.
 
-## Objetivos mensuráveis
+## Ordem de prioridade — novembro de 2026
 
-| Objetivo | Prazo-alvo | Indicador |
-| --- | --- | --- |
-| Concluir DIO Java + IA | 15/11/2026 | Curso e certificado concluídos |
-| Iniciar candidaturas | imediatamente | 3–5 vagas qualificadas/semana após triagem |
-| Diagnóstico Java | 30/11/2026 | Exercícios independentes e lacunas registradas |
-| CV/LinkedIn/GitHub alinhados | 30/11/2026 | Perfis revisados e links testados |
-| Java, SQL e testes consolidados | 20/12/2026 | Exercícios + entregas verificáveis |
-| Docker e ambiente reproduzível | 10/01/2027 | Projeto sobe com instruções e testes |
-| Entrevistas técnicas simuladas | janeiro/2027 | Simulados e feedback documentados |
-| Inglês funcional inicial | janeiro/2027 | Apresentar-se e explicar projetos em conversa simples |
-| Primeira oportunidade melhor remunerada | 2027, o quanto antes | Oferta compatível com renda e faculdade |
+1. **RasComp:** estabilização, testes e operação da competição em 14/11.
+2. **Currículo e candidaturas:** inscrições urgentes, currículo backend e currículo software/IA; não esperar cursos.
+3. **Freelancer:** criar perfil e ofertas específicas, sem prometer serviços fora do escopo.
+4. **DIO Java + IA:** concluir em paralelo, idealmente nesta semana.
+5. **Estudos técnicos:** seguir [roadmap.sh/java](https://roadmap.sh/java) com diagnóstico e aprofundamento seletivo; aplicar no AkosMed e na pesquisa em IA.
 
-> Prazos são metas de planejamento, não garantias de contratação. **Não esperar concluir os estudos para se candidatar.**
+## Ponto de partida técnico
 
-## Como usar este repositório
+- Experiência real: **SGL**, **RasComp**, **Busivs-BOT** e pesquisa.
+- **Curso completo de Java com Nélio Alves: certificado já obtido**.
+- **DIO Java + IA: em andamento**.
+- Objetivo técnico: manter fluência independente e aprofundar Java, Spring Boot, SQL, testes e Docker; IA continua sendo ferramenta válida de produtividade.
 
-1. Abrir [ROADMAP.md](ROADMAP.md) para identificar a etapa vigente.
-2. Executar as ações da [semana atual](TAREFAS.md), sem prejudicar provas e atividades da UFRB.
-3. Registrar vagas em [CANDIDATURAS.md](CANDIDATURAS.md); **não publicar dados pessoais, contatos de recrutadores ou informações privadas**.
-4. Registrar prática e evidências em [METAS-E-EVIDENCIAS.md](METAS-E-EVIDENCIAS.md).
-5. Fazer revisão semanal: o que avançou, o que bloqueou, o que muda na próxima semana.
+## Marcos
 
-## Princípios
+| Marco | Prazo-alvo |
+| --- | --- |
+| RasComp operacional para competição | 14/11/2026 |
+| Currículos preparados e primeiras candidaturas urgentes | 11–17/11/2026 |
+| Perfil freelance e primeiro portfólio de serviços publicados | até 30/11/2026 |
+| DIO Java + IA concluído | preferencialmente até 15/11/2026 |
+| Diagnóstico pelo roadmap.sh Java | até 30/11/2026 |
+| Java, SQL, testes e melhoria no AkosMed | dezembro/2026 |
+| Docker, pesquisa IA e entrevistas | dezembro/2026–janeiro/2027 |
+| Primeira oportunidade melhor remunerada | o quanto antes em 2027 |
 
-- **Graduação não é negociável.** A oportunidade precisa caber na rotina acadêmica.
-- **Estabilidade antes de prestígio:** remuneração, horário, mentoria e crescimento importam mais que título.
-- **IA é ferramenta de produção:** treinos independentes preservam fluência; IA segue disponível para revisão e produtividade.
-- **Aproveitar projetos existentes:** AkosMed e pesquisa em IA serão ambientes de aplicação; evitar projetos artificiais.
-- **Candidatura com critério:** quantidade importa menos que aderência, mas não pode haver semanas de estudo sem prospecção.
-- **Freelance como complemento:** escopo fechado, entrega pequena, expectativa clara.
+Metas não são resultados já alcançados. Rever semanalmente.
 
 ## Documentos
 
-- [Roadmap e marcos](ROADMAP.md)
-- [Tarefas e checklist](TAREFAS.md)
-- [Metas e evidências](METAS-E-EVIDENCIAS.md)
-- [Funil de candidaturas](CANDIDATURAS.md)
-- [Critérios de vagas e renda](CRITERIOS-E-RENDA.md)
+- [ROADMAP.md](ROADMAP.md) — execução por fases
+- [TAREFAS.md](TAREFAS.md) — checklist operacional
+- [CANDIDATURAS.md](CANDIDATURAS.md) — vagas e etapas (verificar situação real)
+- [FREELANCER.md](FREELANCER.md) — ofertas, perfil, aquisição de clientes e segurança
+- [PERFIL-FREELANCER.md](PERFIL-FREELANCER.md) — textos prontos para adaptar a plataformas
+- [METAS-E-EVIDENCIAS.md](METAS-E-EVIDENCIAS.md) — habilidades e evidências
+- [CRITERIOS-E-RENDA.md](CRITERIOS-E-RENDA.md) — critérios de decisão
+
+**Regra:** preservar aulas, provas e obrigações acadêmicas; não publicar dados pessoais ou informação confidencial de projetos/clientes.
