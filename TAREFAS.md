@@ -32,7 +32,7 @@
 - [ ] Enviar 3–5 candidaturas qualificadas.
 - [ ] Iniciar diagnóstico Java pelo roadmap.sh/java.
 - [ ] Continuar inglês (escuta + fala).
-- [ ] Selecionar melhoria no AkosMed.
+- [ ] Selecionar entrega no Desmion IA.
 
 ## 23–30/11
 - [ ] Enviar 3–5 candidaturas qualificadas.
@@ -42,7 +42,7 @@
 - [ ] Revisar CV e perfil com base em feedback.
 
 ## Dezembro
-- [ ] Aplicar Spring/SQL/testes no AkosMed.
+- [ ] Aplicar Spring/SQL/testes no Desmion IA.
 - [ ] Executar exercícios independentes conforme lacunas.
 - [ ] Manter prospecção de vagas e freelances.
 - [ ] Desenvolver entregas pertinentes à pesquisa em IA.
