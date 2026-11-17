@@ -15,7 +15,7 @@
 2. **Currículo e candidaturas:** inscrições urgentes, currículo backend e currículo software/IA; não esperar cursos.
 3. **Freelancer:** criar perfil e ofertas específicas, sem prometer serviços fora do escopo.
 4. **DIO Java + IA:** concluir em paralelo, idealmente nesta semana.
-5. **Estudos técnicos:** seguir [roadmap.sh/java](https://roadmap.sh/java) com diagnóstico e aprofundamento seletivo; aplicar no AkosMed e na pesquisa em IA.
+5. **Estudos técnicos:** seguir [roadmap.sh/java](https://roadmap.sh/java) com diagnóstico e aprofundamento seletivo; aplicar prioritariamente no Desmion IA, quando fizer sentido.
 
 ## Ponto de partida técnico
 
@@ -33,7 +33,7 @@
 | Perfil freelance e primeiro portfólio de serviços publicados | até 30/11/2026 |
 | DIO Java + IA concluído | preferencialmente até 15/11/2026 |
 | Diagnóstico pelo roadmap.sh Java | até 30/11/2026 |
-| Java, SQL, testes e melhoria no AkosMed | dezembro/2026 |
+| Java, SQL, testes e entrega no Desmion IA | dezembro/2026 |
 | Docker, pesquisa IA e entrevistas | dezembro/2026–janeiro/2027 |
 | Primeira oportunidade melhor remunerada | o quanto antes em 2027 |
 
@@ -50,3 +50,7 @@ Metas não são resultados já alcançados. Rever semanalmente.
 - [CRITERIOS-E-RENDA.md](CRITERIOS-E-RENDA.md) — critérios de decisão
 
 **Regra:** preservar aulas, provas e obrigações acadêmicas; não publicar dados pessoais ou informação confidencial de projetos/clientes.
+
+## Prioridade de projetos (novembro/2026)
+
+**SGL:** principal case de backend corporativo. **RasComp:** operação e produto real. **Desmion IA:** projeto de pesquisa prioritário, sobre sistema multiagente com LLMs locais para automação de fluxos organizacionais (JavaScript/Node.js, PostgreSQL e Ollama). **AkosMed:** laboratório secundário, sem entregas obrigatórias neste ciclo. Não deixar estudos ou novos projetos bloquearem candidaturas.
