@@ -17,7 +17,7 @@
 - [ ] Criar e publicar perfil freelance em plataforma selecionada, após comparar taxas, regras e demanda.
 - [ ] Definir 2–3 serviços de escopo fechado; elaborar proposta-modelo e critério de aceite.
 - [ ] Diagnosticar Java usando https://roadmap.sh/java; estudar só lacunas comprovadas.
-- [ ] Selecionar melhoria pequena no AkosMed e um ponto de aplicação na pesquisa em IA.
+- [ ] Definir próximo experimento verificável no Desmion IA e um ponto de aplicação na pesquisa em IA.
 
 **Saída:** funil de vagas ativo, perfil freelance publicado e trilha técnica personalizada.
 
@@ -25,7 +25,7 @@
 
 **Técnico:** Spring Boot, REST, JPA, SQL (JOIN, GROUP BY, índices, transações), testes JUnit/Mockito e integração, conforme lacunas do roadmap.sh.
 
-- [ ] Entrega incremental testada no AkosMed.
+- [ ] Entrega incremental testada no Desmion IA.
 - [ ] Exercícios independentes nos tópicos com menor segurança.
 - [ ] Enviar propostas freelance específicas e de baixo risco, sem inventar experiência.
 - [ ] Manter candidaturas e revisar respostas.
@@ -56,7 +56,7 @@
 | Candidaturas, currículo e entrevistas | 3 |
 | Prospecção freelance e propostas | 2 |
 | Java pelo roadmap.sh + prática independente | 2 |
-| AkosMed, SQL, testes e pesquisa em IA | 3 |
+| Pesquisa Desmion IA, SQL e testes | 3 |
 | Inglês | 2 |
 | **Total** | **12** |
 
@@ -64,4 +64,8 @@
 
 ## Regra de estudo
 
-O curso completo de Java de Nélio Alves **já foi concluído**. Usar [roadmap.sh/java](https://roadmap.sh/java) como mapa de competências, não como lista obrigatória de cursos. Classificar cada tópico como **dominado / revisar / aprofundar** por exercícios e explicações; aplicar o aprendizado no AkosMed e na pesquisa em IA. IA pode apoiar revisão e produtividade, mas alguns exercícios serão independentes.
+O curso completo de Java de Nélio Alves **já foi concluído**. Usar [roadmap.sh/java](https://roadmap.sh/java) como mapa de competências, não como lista obrigatória de cursos. Classificar cada tópico como **dominado / revisar / aprofundar** por exercícios e explicações; aplicar o aprendizado prioritariamente no Desmion IA, quando fizer sentido. IA pode apoiar revisão e produtividade, mas alguns exercícios serão independentes.
+
+## Pesquisa prioritária — Desmion IA
+
+Tratar como projeto de pesquisa e desenvolvimento, não apenas portfólio. Priorizar hipótese, implementação incremental, experimentos reprodutíveis e registro de resultados. Investigar agentes com LLMs locais, compartilhamento de contexto e encadeamento de processos organizacionais. **Não antecipar resultados nem declarar integrações pendentes como concluídas.** AkosMed permanece opcional para exercícios Java isolados.
